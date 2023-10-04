@@ -1,0 +1,441 @@
+fileFormatVersion: 2
+guid: 1f4c7757b92b4a644a2ddc0525fee13d
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -1680143732066380197
+    second: detach_wing_10_carpaint_custom03_LOD2|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: -831627050705014464
+    second: detach_wing_10_carpaint_custom03_LOD2|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: -7479829151194862101
+    second: detach_wing_10_carpaint_custom03_LOD2|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: -7500729273985714452
+    second: detach_wing_10_carpaint_custom03_LOD2|top_wing_L_animAction
+  - first:
+      74: 6590986272613313881
+    second: detach_wing_10_carpaint_custom03_LOD2|top_wing_R_animAction
+  - first:
+      74: -8527725496170603903
+    second: top_wing_L_anim|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: -7808053016314931601
+    second: top_wing_L_anim|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: -7352899633321101479
+    second: top_wing_L_anim|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: -8428231138450509810
+    second: top_wing_L_anim|top_wing_L_animAction
+  - first:
+      74: -3961297269773292243
+    second: top_wing_L_anim|top_wing_R_animAction
+  - first:
+      74: 5504138514443122245
+    second: top_wing_R_anim|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: 368054647015612286
+    second: top_wing_R_anim|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: -3909577646970013610
+    second: top_wing_R_anim|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: -7035820201503624117
+    second: top_wing_R_anim|top_wing_L_animAction
+  - first:
+      74: -1964073103447171190
+    second: top_wing_R_anim|top_wing_R_animAction
+  - first:
+      74: 720353624922364395
+    second: detach_anim04_LOD_tiled_carbon_LOD16|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: -6401377373155923713
+    second: detach_anim04_LOD_tiled_carbon_LOD16|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: 3775388253932284801
+    second: detach_anim04_LOD_tiled_carbon_LOD16|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: -3789363260727052862
+    second: detach_anim04_LOD_tiled_carbon_LOD16|top_wing_L_animAction
+  - first:
+      74: -6310615710850558786
+    second: detach_anim04_LOD_tiled_carbon_LOD16|top_wing_R_animAction
+  - first:
+      74: -5689184262407107292
+    second: detach_03_5_details_orange_accents_LOD2|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: 8285309155093395037
+    second: detach_03_5_details_orange_accents_LOD2|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: 1711963938172083611
+    second: detach_03_5_details_orange_accents_LOD2|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: 1378441862176223452
+    second: detach_03_5_details_orange_accents_LOD2|top_wing_L_animAction
+  - first:
+      74: 7316876013197946665
+    second: detach_03_5_details_orange_accents_LOD2|top_wing_R_animAction
+  - first:
+      74: -4576933884152767117
+    second: <Wheel.002|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: 1160470298993022099
+    second: <Wheel.002|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: 2387206109282553762
+    second: <Wheel.002|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: 6260734485059283926
+    second: <Wheel.002|top_wing_L_animAction
+  - first:
+      74: -647469948044617285
+    second: <Wheel.002|top_wing_R_animAction
+  - first:
+      74: 1147908398518421003
+    second: <Wheel.001|detach_03_5_details_orange_accents_LOD2Action
+  - first:
+      74: 7552601949395550583
+    second: <Wheel.001|detach_anim04_LOD_tiled_carbon_LOD16Action
+  - first:
+      74: 3633604360436201578
+    second: <Wheel.001|detach_wing_10_carpaint_custom03_LOD2Action
+  - first:
+      74: -5668542627699933125
+    second: <Wheel.001|top_wing_L_animAction
+  - first:
+      74: 4050163114757799101
+    second: <Wheel.001|top_wing_R_animAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BASE
+    second: {fileID: 2100000, guid: 1f9b721bafc820c4e83f1b45b7d5c0ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanc
+    second: {fileID: 2100000, guid: aec7480bbfb80174aa82b20d0e244ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blanck
+    second: {fileID: 2100000, guid: 1b71b6b6f6770574db3ddfbe3dec8b3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CARBONE
+    second: {fileID: 2100000, guid: 2dad1610ed8b078409f85f35b5297799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carbone
+    second: {fileID: 2100000, guid: 5d564a4a09facc547a2e963c7cc0d96f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carosserie
+    second: {fileID: 2100000, guid: 3f7cea10617789d46be0de4f52e9f4fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fer
+    second: {fileID: 2100000, guid: 79ea0bbf485159b45815aa7943c21454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fer.001
+    second: {fileID: 2100000, guid: 32f40dd718f45094d9ef0217ef1fa67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jantes
+    second: {fileID: 2100000, guid: 60fd932ebc8d705418b54cc7f2798c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jantes I
+    second: {fileID: 2100000, guid: a15602464a543d2428034cce02459b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Lumi\xE8re Orange"
+    second: {fileID: 2100000, guid: 4bd49cbc5330f9d48a0fe46a9f7b1b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Lumi\xE8re blanche"
+    second: {fileID: 2100000, guid: c0b398fc0e6a9a6428964c7be441a128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "Lumi\xE8re rouge"
+    second: {fileID: 2100000, guid: 8260953b954f1c64984147df42430699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 1ffee2cf1b930c2448226558500a0fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 835548ca90363604199facaab2edbe6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: b4b90f7858b223e40a133e3701a3a06a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: e5f6372f2c0505c439bace40975287ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 306360b128268fc40a71a3a773ab5420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 5dfeeff23a6bbbc44b898107fdc0ce0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.023
+    second: {fileID: 2100000, guid: 606e7b9810dd64e4da1b5ca707ed49de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: 6026ed7c89aaf26469d190feee4ec0e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: 05757b5cb0c001e42ab3277e2055ea3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.027
+    second: {fileID: 2100000, guid: dd961ace929b8c649947bc02c19ee27c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.028
+    second: {fileID: 2100000, guid: fd4409d61d18b594f9e5fd9118364f49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: ea537b7ffa9f3a842a69f0dcc97543bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: 43103c62630e80944bd105a54b94c4c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.031
+    second: {fileID: 2100000, guid: 102baefdb15be5d49989f48a2cd04590, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: 9502da7a00a2f9d49849a72db9767a2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: eb87a99dfc12a37478017bf610be3caa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.034
+    second: {fileID: 2100000, guid: ac422f53088b2e446a945954a55f6f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.036
+    second: {fileID: 2100000, guid: ca614ffd7221a3e45958df5ceaa96121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.037
+    second: {fileID: 2100000, guid: e2ddef738fedc664387c64ca245fafc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.038
+    second: {fileID: 2100000, guid: faab5a1bf5c51134eb6b5566c4b9bcd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.039
+    second: {fileID: 2100000, guid: e16f2fd44dc92cf438682228b2dd72e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.040
+    second: {fileID: 2100000, guid: 25de49a270edb964ab227b68a246e05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.041
+    second: {fileID: 2100000, guid: e47b9a11803b2684396e3b227dc99ab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.042
+    second: {fileID: 2100000, guid: a96f7179262df6e418bbf356d6cd8543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.044
+    second: {fileID: 2100000, guid: 3bb9038b79710ae41ba383ca983811b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.049
+    second: {fileID: 2100000, guid: 4fff53b7512167043b8361025c45afb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 3d30bcf31af5b6b418fb98e80539d4b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rouge
+    second: {fileID: 2100000, guid: 542a5c53cc393ef45bafa588973fdf2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire
+    second: {fileID: 2100000, guid: 6ad69faa451270345960699875f3f036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire.001
+    second: {fileID: 2100000, guid: b2d84d5b602dcc648a423b4e4142ed2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vert
+    second: {fileID: 2100000, guid: 943fccaca7926f84d9688b27d12c0074, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vitres
+    second: {fileID: 2100000, guid: 40b2c41e5d0a98a45b92a4635c285f97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Volant.003
+    second: {fileID: 2100000, guid: 68b709bb36e2bc348933c4e2ca94ce37, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
